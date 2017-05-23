@@ -9,7 +9,7 @@ public class log4jdemo {
 @Test
 //public static void main(String args[]){
 public void test1(){
-	//This is my 2nd comment
+	//4rd commit
 	WebDriver driver = new FirefoxDriver();
 	driver.get("http://www.google.com");
 	driver.manage().window().maximize();
